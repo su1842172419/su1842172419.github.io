@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://su1842172419.github.io/</id>
+    <title>Susu_blog</title>
+    <updated>2022-07-26T11:13:57.410Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://su1842172419.github.io/"/>
+    <link rel="self" href="https://su1842172419.github.io/atom.xml"/>
+    <subtitle>你所热爱的 就是你的生活</subtitle>
+    <logo>https://su1842172419.github.io/images/avatar.png</logo>
+    <icon>https://su1842172419.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Susu_blog</rights>
+</feed>
